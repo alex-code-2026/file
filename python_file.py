@@ -10,3 +10,8 @@ while total != 10:
 
 print(total)
 print(round(count, 1))
+
+
+
+
+print('dsjfgkfhdghfjghjkfgkfgklfgvmnfgkhbkfgklfjgknlfgklbjvnjklfcgjiklfcgvnklhbkljkmlfgvhbcnfgng hfdfgbfgfgh')
