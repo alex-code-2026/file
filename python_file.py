@@ -15,3 +15,9 @@ print(round(count, 1))
 
 
 print('dsjfgkfhdghfjghjkfgkfgklfgvmnfgkhbkfgklfjgknlfgklbjvnjklfcgjiklfcgvnklhbkljkmlfgvhbcnfgng hfdfgbfgfgh')
+
+
+
+
+def one_number(n):
+	return f'Number : {n}'
